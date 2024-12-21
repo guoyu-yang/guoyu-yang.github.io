@@ -33,7 +33,7 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 
 - [Sweeper: Breaking the Validity-Latency Tradeoff in Asynchronous Common Subset](https://ieeexplore.ieee.org/abstract/document/10480712/)\\
   **Guoyu Yang**, Chang Chen, Qi Chen, Jianan Jiang, Jin Li, and Debiao He.\\
-  <span style="color: #de724e;">IEEE Transactions on Information Forensics and Security, 2024.</span>\\
+  <span style="color: #de724e;">IEEE Transactions on Information Forensics and Security, 2024.</span>
  
 
 
