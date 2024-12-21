@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I'm a first-year PhD student in [MINE Lab](https://mine-lab-nd.github.io/) of Computer Science and Engineering (CSE) at the [University of Notre Dame](https://www.nd.edu/) starting Fall 2024, supervised by [Prof. Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en). I obtained my bachelor's degree from [Sichuan University](https://www.scu.edu.cn/) in 2024. Previously, I was a visiting student under the guidance of [Prof. Lichao Sun](https://lichao-sun.github.io/). This experience was enhanced by mentorship from [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). Earlier before, I worked under [Prof. Tang Jie](https://keg.cs.tsinghua.edu.cn/jietang/) and [Dr. Xiao Liu](https://scholar.google.com.hk/citations?user=VKI8EhUAAAAJ&hl=zh-CN) at Tsinghua University.
+I am a final year PhD student in Cyberspace Security at the [Guangzhou University](http://www.gzhu.edu.cn/), supervised by [Prof. Zhiming Zheng](https://iai.buaa.edu.cn/info/1013/1088.htm) and [Prof. Jin Li](http://www.gzhu.edu.cn/info/1112/17557.htm). I received the Bachelor’s degree in Software Engineering from [Ludong University](https://www.ldu.edu.cn/) in 2019, and the Master's degree in Computer Science from [Qufu Normal University](https://www.qfnu.edu.cn/) in 2021. 
 
-> I am seeking potential research collaborations. If you are interested, please [contact me](&#40;mailto:yhuang37@nd.edu&#41;).
+
+> I am seeking potential research collaborations. If you are interested, please [contact me](&#40;mailto:yangguoyu1020@163.com&#41;).
+
+> I am on the academic job market in the 2024-2025 cycle!
+
+
 
 ## Research Interests
 
-My research is centered on three pivotal questions:
+My research agenda aims to build secure distributed systems. As such, my areas of expertise encompass **Cryptography** and **Distributed Computing**. I am particularly interested in Byzantine fault-tolerant consensus, blockchain, secret sharing, distributed key generation, and many other distributed protocols.
 
-- **How can we deepen our understanding of the trustworthiness of foundational generative models?** This line of inquiry seeks to develop robust frameworks for evaluating trustworthiness and to identify strategies for enhancing the trustworthiness of these models within specific application domains. This includes: [TrustLLM (ICML'24)](https://arxiv.org/abs/2401.05561), [LLM-as-a-Coauthor (NAACL'24)](https://aclanthology.org/2024.findings-naacl.29/), [Attack LLM Judge (ACM CCS'24)](https://arxiv.org/abs/2403.17710), [FakeGPT (WWW'24)](https://dl.acm.org/doi/abs/10.1145/3589335.3651509), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), [HonestLLM (NeurIPS'24)](https://arxiv.org/abs/2406.00380), [TrustNLP@NAACL'24](https://arxiv.org/abs/2407.16686), and [ObscurePrompt](https://arxiv.org/abs/2406.13662).
 
-- **Is there a superior approach to achieving Artificial General Intelligence (AGI)?** This research emphasizes data-centric methods to enable scalable model alignment and evolution, ensuring that they adhere to human values and ethical paradigms throughout the development process. This includes: [AlignBench (ACL'24)](https://arxiv.org/abs/2311.18743), [Multilingual Alignment (EMNLP'24)](https://arxiv.org/abs/2406.14721), and [UniGen](https://arxiv.org/abs/2406.18966).
-
-- **To what extent can current AI technologies effectively benefit downstream applications?** This research area critically assesses the practical impact of generative models, with a particular focus on their application and AI4Science, exploring its transformative potential and interdisciplinary contributions in fields such as agentic models, social sciences, and beyond. This includes: [MetaTool (ICLR'24)](https://arxiv.org/abs/2310.03128), [PsychometricBench](https://arxiv.org/abs/2406.17675), [AwareBench](https://arxiv.org/abs/2401.17882) and [GUI-World](https://arxiv.org/abs/2406.10819).
 
 ## News
 
@@ -81,30 +82,27 @@ My research is centered on three pivotal questions:
   **Yue Huang**, Kai Shu, Philip S. Yu, Lichao Sun\\
   <span style="color: #de724e;">2024 ACM Web Conference (WWW 2024)</span>
 
-## Talks
-- *2024.02* Trustworthiness in Large Language Models @ [IBM Research](https://research.ibm.com/)
 
-- *2024.07* Bias of Large Language Models @ TUM
 
 ## Honors and Awards
-- *2024.07* OpenAI’s Researcher Access Program and API
+- Excellent Graduate of Shandong, 2021.
+- Shandong Province Outstanding Graduate Achievement Award, The Second Prize, 2020.
+- National Scholarship, 2020.
+- The 10th ACM/ICPC Shandong Province College Student Programming Competition, Gold Prize, 2019.
 
-- *2024.01* Microsoft Accelerate Foundation Models Research is awarded (Project: [TrustLLM](https://github.com/HowieHwong/TrustLLM) & Lead PI: [Lichao Sun](https://lichao-sun.github.io/))
+## Research Grants
+- National Key Research and Development Program of China, Key Cryptography Theory and System Design of Blockchain System (2021YFA1000600), 2022.01-2026.12, Participants.
+- National Key Research and Development Program of China, Security Analysis and Enhancement Technology for Key Mechanisms of Blockchain (2020YFB1005700), 2020.11-2023.10, Participants.
 
-## Academic Participation
+## Services
 
-- Journal Reviewer: IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP),  ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+- Journal Reviewer: IEEE Transactions on Computers (TC), Information Sciences, World Wide Web, International Journal of Intelligent Systems, Cluster Computing, Peer-to-Peer Networking and Applications, Computers and Electrical Engineering.
 
-- Conference Reviewer: ICLR, ICDM, EMNLP Demo Track (2024), ACL Rolling Review
-
-- Technical Committee Member of 2024 IEEE Computer Society North America Student Challenge
-
-## Educations
-
-- *2024.09 - Present*, Ph.D, <img src='assets/img/Notre_Dame.png' style='width: 1.2em;'> [University of Notre Dame](https://www.nd.edu/) 
-- *2020.09 - 2024.06*, BEng., <img src='assets/img/scu.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/) 
+- Conference Reviewer: International Conference on Artificial Intelligence Security and Privacy (AIS&P).
 
 
-## Internships
 
-- *2023.09 - 2024.01*, Research Intern at <img src='assets/img/thu.png' style='width: 1.2em;'> Tsinghua University KEG & Zhipu AI Inc.
+
+
+
+
