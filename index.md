@@ -7,8 +7,6 @@ layout: homepage
 I am a final year PhD student in Cyberspace Security at the [Guangzhou University](http://www.gzhu.edu.cn/), supervised by [Prof. Zhiming Zheng](https://iai.buaa.edu.cn/info/1013/1088.htm) and [Prof. Jin Li](http://www.gzhu.edu.cn/info/1112/17557.htm). I received the Bachelor’s degree in Software Engineering from [Ludong University](https://www.ldu.edu.cn/) in 2019, and the Master's degree in Computer Science from [Qufu Normal University](https://www.qfnu.edu.cn/) in 2021. 
 
 
-> I am seeking potential research collaborations. If you are interested, please [contact me](&#40;mailto:yangguoyu1020@163.com&#41;).
-
 > I am on the academic job market in the 2024-2025 cycle!
 
 
