@@ -1,12 +1,12 @@
 # Basic Information 
-title: Yue Huang (黄跃)
-position: PhD Student of Computer and Science
-affiliation: University of Notre Dame
-affiliation_link: https://www.nd.edu/
-department: Computer Science and Engineering
-department_link: https://cse.nd.edu/
-email: yhuang37 (at) nd.edu
-address: Fitzpatrick Hall of Engineering, Notre Dame, IN 46556 USA
+title: Guoyu Yang (杨国玉)
+position: PhD Student
+affiliation: Guangzhou University
+affiliation_link: http://www.gzhu.edu.cn/
+department: Cyberspace Security
+department_link: http://ai.gzhu.edu.cn/
+email: yangguoyu1020 (at) 163.com
+address: Room 1104(B), Boxin Building, Huangpu Campus, Guangzhou University, Guangzhou, 510000 P.R. China
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -16,10 +16,10 @@ canonical: https://jekyll-jemdoc.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=HvzvvqQAAAAJ&hl=en
-linkedin: https://www.linkedin.com/in/yue-huang-696816265/
-github_link: https://github.com/HowieHwong
-twitter: https://x.com/HowieH36226
+#google_scholar: https://scholar.google.com/citations?user=HvzvvqQAAAAJ&hl=en
+#linkedin: https://www.linkedin.com/in/yue-huang-696816265/
+#github_link: https://github.com/HowieHwong
+#twitter: https://x.com/HowieH36226
 # resume: https://google.com
 
 # Images (e.g., your profile picture and your website's favicon) 
