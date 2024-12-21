@@ -96,9 +96,9 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 
 ## Services
 
-- Journal Reviewer: IEEE Transactions on Computers (TC), Information Sciences, World Wide Web, International Journal of Intelligent Systems, Cluster Computing, Peer-to-Peer Networking and Applications, Computers and Electrical Engineering.
+- **Journal Reviewer:** IEEE Transactions on Computers (TC), Information Sciences, World Wide Web, International Journal of Intelligent Systems, Cluster Computing, Peer-to-Peer Networking and Applications, Computers and Electrical Engineering.
 
-- Conference Reviewer: International Conference on Artificial Intelligence Security and Privacy (AIS&P).
+- **Conference Reviewer:** International Conference on Artificial Intelligence Security and Privacy (AIS&P).
 
 
 
