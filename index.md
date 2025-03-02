@@ -40,16 +40,17 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 ## Honors and Awards
 - Excellent Graduate of Shandong, 2021.
 - Shandong Province Outstanding Graduate Achievement Award, The Second Prize, 2020.
-- National Scholarship, 2020.
-- The 10th ACM/ICPC Shandong Province College Student Programming Competition, Gold Prize, 2019.
+- China National Scholarship, 2020.
+- The 10th ACM/ICPC Shandong Province Collegiate Programming Contest, Gold Prize, 2019.
 
 ## Research Grants
+- Key Program of the National Natural Science Foundation of China, Research on Fundamental Theories and Methods for Data Sharing and Privacy-Preserving Computation in Smart Internet of Things, 2024.01-2027.12, Participants.
 - National Key Research and Development Program of China, Key Cryptography Theory and System Design of Blockchain System (2021YFA1000600), 2022.01-2026.12, Participants.
 - National Key Research and Development Program of China, Security Analysis and Enhancement Technology for Key Mechanisms of Blockchain (2020YFB1005700), 2020.11-2023.10, Participants.
 
 ## Services
 
-- **Journal Reviewer:** IEEE Transactions on Computers (TC), Information Sciences, World Wide Web, International Journal of Intelligent Systems, Cluster Computing, Peer-to-Peer Networking and Applications, Computers and Electrical Engineering.
+- **Journal Reviewer:** IEEE Transactions on Computers, Information Sciences, World Wide Web, International Journal of Intelligent Systems, Cluster Computing, Peer-to-Peer Networking and Applications, Computers and Electrical Engineering.
 
 - **Conference Reviewer:** International Conference on Artificial Intelligence Security and Privacy (AIS&P).
 
