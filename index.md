@@ -19,22 +19,22 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 
 ## News
 
-
+<!--
 
 - *2024.08* &nbsp; One paper has been accepted by ICA3PP 2024. Congratulations to Shunliang!
 
 - *2024.03* &nbsp; [One paper](https://ieeexplore.ieee.org/abstract/document/10480712/) has been accepted by IEEE TIFS. Congratulations to Guoyu!
-
+-->
 
 
 ## Selected Publications
 
 
-
+<!--
 - [Sweeper: Breaking the Validity-Latency Tradeoff in Asynchronous Common Subset](https://ieeexplore.ieee.org/abstract/document/10480712/)\\
   **Guoyu Yang**, Chang Chen, [Qi Chen](http://ai.gzhu.edu.cn/info/1223/1093.htm), Jianan Jiang, [Jin Li](http://ai.gzhu.edu.cn/info/1223/1091.htm), and [Debiao He](https://blockchain.whu.edu.cn/info/1121/3091.htm).\\
   <span style="color: #de724e;">IEEE Transactions on Information Forensics and Security, 2024. (**CCF A**)</span>
- 
+ -->
 
 
 ## Honors and Awards
@@ -44,16 +44,17 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 - The 10th ACM/ICPC Shandong Province Collegiate Programming Contest, Gold Prize, 2019.
 
 ## Research Grants
+<!--
 - Key Program of the National Natural Science Foundation of China, Research on Fundamental Theories and Methods for Data Sharing and Privacy-Preserving Computation in Smart Internet of Things, 2024.01-2027.12, Participants.
 - National Key Research and Development Program of China, Key Cryptography Theory and System Design of Blockchain System, 2022.01-2026.12, Participants.
 - National Key Research and Development Program of China, Security Analysis and Enhancement Technology for Key Mechanisms of Blockchain, 2020.11-2023.10, Participants.
-
+-->
 ## Services
-
+<!--
 - **Journal Reviewer:** IEEE Transactions on Computers, Information Sciences, World Wide Web, International Journal of Intelligent Systems, Cluster Computing, Peer-to-Peer Networking and Applications, Computers and Electrical Engineering.
 
 - **Conference Reviewer:** International Conference on Artificial Intelligence Security and Privacy (AIS&P).
-
+-->
 
 
 
