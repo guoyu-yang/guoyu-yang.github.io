@@ -23,7 +23,7 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 
 - *2024.08* &nbsp; One paper has been accepted by ICA3PP 2024. Congratulations to Shunliang!
 
-- *2024.03* &nbsp; [One paper](https://ieeexplore.ieee.org/abstract/document/10480712/) has been accepted by IEEE TIFS. Congratulations to Guoyu!
+- *2024.03* &nbsp; [One paper](https://ieeexplore.ieee.org/abstract/document/) has been accepted by IEEE TIFS. Congratulations to Guoyu!
 -->
 
 
@@ -31,7 +31,7 @@ My research agenda aims to build secure distributed systems. As such, my areas o
 
 
 <!--
-- [Sweeper: Breaking the Validity-Latency Tradeoff in Asynchronous Common Subset](https://ieeexplore.ieee.org/abstract/document/10480712/)\\
+- [Sweeper: ](https://ieeexplore.ieee.org/abstract/document/)\\
   **Guoyu Yang**, Chang Chen, [Qi Chen](http://ai.gzhu.edu.cn/info/1223/1093.htm), Jianan Jiang, [Jin Li](http://ai.gzhu.edu.cn/info/1223/1091.htm), and [Debiao He](https://blockchain.whu.edu.cn/info/1121/3091.htm).\\
   <span style="color: #de724e;">IEEE Transactions on Information Forensics and Security, 2024. (**CCF A**)</span>
  -->
